@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Francisco Mejía - Full-Stack Developer 👨‍💻</h1>
-  <p align="center">Desarrollador Fullstack | Python | JavaScript | TypeScript | React | MongoDB | SQL | n8n | Java</p>
+  <p align="center"> Fullstack Developer | Python | JavaScript | TypeScript | React | MongoDB | SQL | n8n | Java</p>
   <a href="mailto:franjmd0508@gmail.com" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
