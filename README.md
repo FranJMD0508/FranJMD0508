@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tecnologies and Skills
+## 🛠️ Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" style="margin-right: 10px;" />
