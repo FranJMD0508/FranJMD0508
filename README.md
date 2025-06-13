@@ -48,8 +48,8 @@ Aquí algunos proyectos en los que he estado trabajando:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranJMD0508&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Francisco" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranJMD0508&layout=compact&theme=dark" alt="Lenguajes Más Usados" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranJMD0508&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Francisco" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranJMD0508&layout=compact&theme=dark" alt="Lenguajes Más Usados" width="42.5%" />
 </p>
 
 ---
