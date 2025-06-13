@@ -1,26 +1,16 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/147199089?v=4" alt="Foto de Perfil de Francisco Mejía" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 5px solid #6e5494;" />
-  <h1>¡Hola! Soy Francisco Mejía 👋</h1>
+  <h1>Francisco Mejía - Full-Stack Developer</h1>
   <p align="center">Desarrollador Fullstack | Python | JavaScript | TypeScript | React | MongoDB | SQL | n8n | Java</p>
-  <a href="https://www.linkedin.com/in/franjmd0508/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:franjmd0508@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:franjmd0508@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🛠️ Tecnologies and Skills
 
-Apasionado desarrollador fullstack con un enfoque en la creación de soluciones robustas y escalables. Disfruto explorando nuevas tecnologías y aplicándolas para resolver problemas desafiantes. Mi objetivo es construir aplicaciones innovadoras que tengan un impacto positivo.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" style="margin-right: 10px;" />
@@ -28,57 +18,44 @@ Apasionado desarrollador fullstack con un enfoque en la creación de soluciones 
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" width="50" height="50" style="margin-right: 10px;" />
+  <img src="n8n-color.svg" alt="n8n" width="50" height="50"/>
 </p>
 
 ---
 
-## 🔭 Proyectos Destacados
+## 💼 Featured Projects
 
-Aquí algunos proyectos en los que he estado trabajando:
+Projects I've been working on:
 
--   **Voice Chatbot para Telegram**: Un bot de Telegram que transcribe notas de voz a texto y responde usando un Agente de IA, construido con Python (Flask), SpeechRecognition y orquestado con n8n.
-    -   [`FranJMD0508/tu-repo-chatbot`](https://github.com/FranJMD0508/tu-repo-chatbot)
--   **Nombre de Otro Proyecto**: [Breve descripción del proyecto y tecnologías usadas].
-    -   [`FranJMD0508/otro-proyecto`](https://github.com/FranJMD0508/otro-proyecto)
--   **Sigue explorando mis repositorios para ver más de mi trabajo.**
+-  **Voice Chatbot for Telegram**: A Telegram bot that transcribes voice notes to text and responds using an **AI Agent**, built with **Python (Flask)**, SpeechRecognition, and orchestrated with **n8n**.  
+  [`FranJMD0508/Voice-Chatbot-n8n`](https://github.com/FranJMD0508/Voice-Chabot-n8n.git)
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranJMD0508&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Francisco" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranJMD0508&layout=compact&theme=dark" alt="Lenguajes Más Usados" width="42.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranJMD0508&show_icons=true&theme=synthwave&hide_border=true" alt="Estadísticas de GitHub de Francisco" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranJMD0508&layout=compact&theme=synthwave&hide_border=true" alt="Lenguajes Más Usados" width="42.5%" />
 </p>
 
 ---
 
-## 🌱 Aprendiendo Actualmente
+## 🌱 Currently Learning & Exploring
 
-Siempre en busca de nuevas habilidades y conocimientos. Actualmente estoy explorando temas como:
+I'm continuously expanding my skillset in:
 
--   Arquitecturas de Microservicios
--   Desarrollo con [Alguna tecnología/framework que estés aprendiendo]
--   Mejora continua en [Algún área específica]
+-   **Cybersecurity & Networking**
+-   **AI Development**
+-   **Continuous Improvement in React**
 
 ---
 
-## 📫 ¿Cómo Contactarme?
+## 📫 How to Reach Me?
 
-¡Estoy abierto a colaboraciones y nuevas oportunidades!
+I'm open to collaborations and new opportunities!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/franjmd0508/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:franjmd0508@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:franjmd0508@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </p>
-
----
-
-<div align="center">
-  ¡Gracias por visitar mi perfil! 😊
-</div>
