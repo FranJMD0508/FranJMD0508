@@ -1,54 +1,84 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/FranJMD0508?v=4" alt="Foto de Perfil de Francisco Mejia" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #007ACC;" />
-  <h3>¡Hola! Soy Francisco Mejía 👋</h3>
-  <p>Desarrollador Fullstack apasionado por crear soluciones innovadoras y aprender constantemente. Me encanta transformar ideas en código funcional y escalable.</p>
+  <img src="https://avatars.githubusercontent.com/u/147199089?v=4" alt="Foto de Perfil de Francisco Mejía" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 5px solid #6e5494;" />
+  <h1>¡Hola! Soy Francisco Mejía 👋</h1>
+  <p align="center">Desarrollador Fullstack | Python | JavaScript | TypeScript | React | MongoDB | SQL | n8n | Java</p>
+  <a href="https://www.linkedin.com/in/franjmd0508/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:franjmd0508@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
+
+---
+
+## 🚀 Sobre Mí
+
+Apasionado desarrollador fullstack con un enfoque en la creación de soluciones robustas y escalables. Disfruto explorando nuevas tecnologías y aplicándolas para resolver problemas desafiantes. Mi objetivo es construir aplicaciones innovadoras que tengan un impacto positivo.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías y herramientas con las que me gusta trabajar:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <br/>
-  <img src="https://img.shields.io/badge/n8n-FF5733?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" width="50" height="50" style="margin-right: 10px;" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🔭 Proyectos Destacados
 
-Aquí puedes ver algunos de mis proyectos más recientes o de los que me siento más orgulloso. ¡Explóralos para ver mi trabajo en acción!
+Aquí algunos proyectos en los que he estado trabajando:
 
--   **[Nombre de tu Proyecto 1]**: Breve descripción del proyecto y sus tecnologías clave.
-    * [Enlace al Repositorio](https://github.com/FranciscoMejia/tu-repo-1)
--   **[Nombre de tu Proyecto 2]**: Otra breve descripción, resaltando lo que hiciste o aprendiste.
-    * [Enlace al Repositorio](https://github.com/FranciscoMejia/tu-repo-2)
--   **Voice Chatbot para Telegram**: Mi proyecto reciente que demuestra el uso de Python/Flask, SpeechRecognition, y n8n para un bot de voz.
-    * [Enlace al Repositorio](https://github.com/FranciscoMejia/tu-repo-chatbot) ---
-
-## 📈 Mi Actividad en GitHub
-
-[![Estadísticas de GitHub de Francisco](https://github-readme-stats.vercel.app/api?username=FranciscoMejia&show_icons=true&theme=radical)](https://github.com/FranciscoMejia)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMejia&layout=compact&theme=radical)](https://github.com/FranciscoMejia)
+-   **Voice Chatbot para Telegram**: Un bot de Telegram que transcribe notas de voz a texto y responde usando un Agente de IA, construido con Python (Flask), SpeechRecognition y orquestado con n8n.
+    -   [`FranJMD0508/tu-repo-chatbot`](https://github.com/FranJMD0508/tu-repo-chatbot)
+-   **Nombre de Otro Proyecto**: [Breve descripción del proyecto y tecnologías usadas].
+    -   [`FranJMD0508/otro-proyecto`](https://github.com/FranJMD0508/otro-proyecto)
+-   **Sigue explorando mis repositorios para ver más de mi trabajo.**
 
 ---
 
-## 📬 Conéctate Conmigo
+## 📊 Estadísticas de GitHub
 
-¡Me encantaría conectar y colaborar en futuros proyectos!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranJMD0508&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Francisco" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranJMD0508&layout=compact&theme=dark" alt="Lenguajes Más Usados" width="49%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_perfil_de_linkedin)
-[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@example.com)
 ---
 
+## 🌱 Aprendiendo Actualmente
+
+Siempre en busca de nuevas habilidades y conocimientos. Actualmente estoy explorando temas como:
+
+-   Arquitecturas de Microservicios
+-   Desarrollo con [Alguna tecnología/framework que estés aprendiendo]
+-   Mejora continua en [Algún área específica]
+
+---
+
+## 📫 ¿Cómo Contactarme?
+
+¡Estoy abierto a colaboraciones y nuevas oportunidades!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/franjmd0508/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:franjmd0508@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  ¡Gracias por visitar mi perfil! 😊
 </div>
