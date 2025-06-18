@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Francisco Mejía - Full-Stack Developer 👨‍💻</h1>
   <p align="center"> Fullstack Developer | Python | JavaScript | TypeScript | React | MongoDB | SQL | n8n | Java</p>
-  <a href="mailto:franjmd0508@gmail.com" >
+  <a href="mailto:fmejiaduran@gmail.com" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </div>
@@ -55,7 +55,7 @@ I'm continuously expanding my skillset in:
 I'm open to collaborations and new opportunities!
 
 <p align="left">
-  <a href="mailto:franjmd0508@gmail.com" >
+  <a href="mailto:fmejiaduran@gmail.com" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </p>
